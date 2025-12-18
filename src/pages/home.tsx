@@ -43,8 +43,8 @@ export default function Home() {
           greener future for generations to come.
         </Typography>
         <Box sx={{ display: 'flex', gap: 2 }}>
-          <ButtonComponent onClick={() => navigate('/auth')}>REGISTER</ButtonComponent>
-          <ButtonComponent onClick={() => navigate('/')}>DONATE</ButtonComponent>
+          <ButtonComponent onClick={() => navigate('/auth')}>cPanel</ButtonComponent>
+          <ButtonComponent onClick={() => navigate('/donate')}>DONATE</ButtonComponent>
         </Box>
       </Box>
     </Background>
