@@ -27,7 +27,7 @@ export default function Home() {
             textAlign: 'center',
           }}
         >
-          Verdant Canopy Enterprises
+          GreenGrowth Ltd.
         </Typography>
         <Typography
           variant="h6"
@@ -38,10 +38,14 @@ export default function Home() {
             marginTop: 2,
           }}
         >
-          We are a team of passionate developers who are dedicated to creating beautiful and
-          functional websites.
+          GreenGrowth Ltd. is a company dedicated to tree planting, monitoring growth, and
+          sustainable forest management using modern technology. We are committed to fostering a
+          greener future for generations to come.
         </Typography>
-        <ButtonComponent onClick={() => navigate('/auth')}>REGISTER</ButtonComponent>
+        <Box sx={{ display: 'flex', gap: 2 }}>
+          <ButtonComponent onClick={() => navigate('/auth')}>REGISTER</ButtonComponent>
+          <ButtonComponent onClick={() => navigate('/')}>DONATE</ButtonComponent>
+        </Box>
       </Box>
     </Background>
   )

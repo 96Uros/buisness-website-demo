@@ -9,7 +9,27 @@ export default function Auth() {
 
   return (
     <Background>
-      <Box>
+      <Box
+        sx={{
+          display: 'flex',
+          flexDirection: 'column',
+          alignItems: 'center',
+          width: '100%',
+        }}
+      >
+        <Typography
+          variant="h3"
+          sx={{
+            fontWeight: 'bold',
+            letterSpacing: 2,
+            color: 'white',
+            width: '30%',
+            textAlign: 'center',
+            mb: 4,
+          }}
+        >
+          GreenGrowth Ltd. <br /> C-panel
+        </Typography>
         <Box
           sx={{
             border: '2px solid white',
