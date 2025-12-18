@@ -1,4 +1,5 @@
 # GreenGrowth Ltd. - Business Website Demo
+<img width="1919" height="915" alt="Posnetek zaslona 2025-12-18 123358" src="https://github.com/user-attachments/assets/0c93c91b-e3dd-4bef-8c59-49f9093866c7" />
 
 A modern, responsive business website demo built with React, TypeScript, and Material-UI. This project was created as a portfolio piece for freelancer.com, showcasing professional web development skills including authentication systems, routing, and clean code architecture.
 
@@ -150,9 +151,7 @@ VITE_API_BASE_URL=http://localhost:3000/api
 ```
 
 ## 📞 Contact
-
 For integration inquiries or custom requirements, please contact us.
-
 ---
-
 **Note**: This is a demonstration project. Some features are placeholders and can be customized based on requirements.
+
