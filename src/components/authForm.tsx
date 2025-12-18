@@ -112,17 +112,17 @@ export default function AuthForm() {
         }}
       >
         <Typography
-          variant="h3"
+          variant="h4"
           sx={{
             fontWeight: 'bold',
             letterSpacing: 2,
             color: 'white',
-            width: '30%',
+            width: '50%',
             textAlign: 'center',
             mb: 4,
           }}
         >
-          GreenGrowth Ltd. <br /> C-panel
+          Control Panel Login
         </Typography>
         <Box
           sx={{
