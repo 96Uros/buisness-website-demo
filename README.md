@@ -3,8 +3,6 @@
 
 A modern, responsive business website demo built with React, TypeScript, and Material-UI. This project was created as a portfolio piece for freelancer.com, showcasing professional web development skills including authentication systems, routing, and clean code architecture.
 
-## 🚀 Easy Start
-
 ### Prerequisites
 
 - Node.js (v18 or higher recommended)
@@ -39,7 +37,7 @@ npm run build
 npm run preview
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -65,7 +63,7 @@ src/
     └── donate.tsx           # Donation page
 ```
 
-## 🔐 Authentication System
+## Authentication System
 
 The project includes a complete authentication system with a flexible architecture:
 
@@ -95,7 +93,7 @@ The project includes a complete authentication system with a flexible architectu
 - **Email**: `ukukovec@example.com`
 - **Password**: `password123`
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React 19** - UI library
 - **TypeScript** - Type safety
@@ -104,14 +102,14 @@ The project includes a complete authentication system with a flexible architectu
 - **Vite** - Build tool and dev server
 - **Emotion** - CSS-in-JS styling
 
-## 📝 Available Scripts
+## Available Scripts
 
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
 
-## 🎯 Features
+## Features
 
 - Modern, responsive design
 - Authentication system with mock/real API switching
@@ -121,7 +119,7 @@ The project includes a complete authentication system with a flexible architectu
 - TypeScript for type safety
 - Material-UI components
 
-## 📄 About This Project
+## About This Project
 
 This project was created as a portfolio demonstration for freelancer.com, showcasing:
 
@@ -131,7 +129,7 @@ This project was created as a portfolio demonstration for freelancer.com, showca
 - Responsive UI/UX design
 - Modern development practices
 
-## 🔧 Configuration
+## Configuration
 
 ### Switching Between Mock and Real API
 
@@ -150,7 +148,7 @@ Create a `.env` file for API configuration:
 VITE_API_BASE_URL=http://localhost:3000/api
 ```
 
-## 📞 Contact
+## Contact
 For integration inquiries or custom requirements, please contact us.
 ---
 **Note**: This is a demonstration project. Some features are placeholders and can be customized based on requirements.
